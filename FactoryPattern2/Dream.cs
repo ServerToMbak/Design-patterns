@@ -14,7 +14,7 @@ namespace FactoryPattern2
     {
         public IndividualDream()
         {
-            makeADream = "Its an Individual Dream and not that easy to get but it worth to get";
+            makeADream = "Its an Individual Dream and not that easy to get ";
 
         }
     }
